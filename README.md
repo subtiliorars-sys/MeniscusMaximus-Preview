@@ -24,6 +24,9 @@ MeniscusMaximus is a self-hosted web app that acts as a persistent, conversation
 **Conversational chat over your own memories**
 ![Brain Chat Console](screenshots/chat-console.png)
 
+**Capture knowledge into persistent "fractal" memory**
+![Memory Injector](screenshots/memory-injector.png)
+
 **Cognitive agent pipeline (Draft → Audit → Analyze → Deploy)**
 ![Agents Console](screenshots/agents-console.png)
 
@@ -32,6 +35,9 @@ MeniscusMaximus is a self-hosted web app that acts as a persistent, conversation
 
 **Adversarial optimization & bloat checks**
 ![Optimization Challenger](screenshots/optimization.png)
+
+**Human-in-the-loop checkpoints for privileged actions**
+![Compliance Checkpoints](screenshots/compliance-checkpoints.png)
 
 **Compliance & privacy dashboard**
 ![Compliance Dashboard](screenshots/compliance.png)
