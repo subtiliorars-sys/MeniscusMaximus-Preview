@@ -19,6 +19,23 @@ MeniscusMaximus is a self-hosted web app that acts as a persistent, conversation
 - 🎙️ **Voice dictation** — talk to your brain hands-free
 - 🧭 **Guiding-principles framework** — keeps the assistant aligned to your values
 
+## 📸 A look inside
+
+**Conversational chat over your own memories**
+![Brain Chat Console](screenshots/chat-console.png)
+
+**Cognitive agent pipeline (Draft → Audit → Analyze → Deploy)**
+![Agents Console](screenshots/agents-console.png)
+
+**Self-healing & consistency auditing**
+![Self-Healing Audit](screenshots/self-healing.png)
+
+**Adversarial optimization & bloat checks**
+![Optimization Challenger](screenshots/optimization.png)
+
+**Compliance & privacy dashboard**
+![Compliance Dashboard](screenshots/compliance.png)
+
 ## Status
 Actively developed. The live demo is on the way — ⭐ **star the repo** to follow along.
 
